@@ -1,0 +1,9 @@
+**/data/
+cv_env/
+runs/
+training/tennis-ball-detection-6/
+training/tennis_court_det_dataset.zip
+
+*.avi
+*.pt
+*.pth
